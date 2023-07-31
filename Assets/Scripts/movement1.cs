@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
 
-public class movement : MonoBehaviour
+public class movement1 : MonoBehaviour
 {
     // Start is called before the first frame update
     Rigidbody2D rb;
