@@ -22,7 +22,6 @@ public class movement : MonoBehaviour
         sr=GetComponent<SpriteRenderer>();
         //gd = GetComponent<CircleCollider2D>();
     }
-
     // Update is called once per frame
     void Update()
     {
